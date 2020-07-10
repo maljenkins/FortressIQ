@@ -1,0 +1,89 @@
+{
+  "settings": {
+    "hml": true
+  },
+  "general": {
+    "business_name": "Cheshire Impact",
+    "street_address": "1 Tara Blvd Suite 200",
+    "city_state_zip": "Nashua, NH 03062",
+    "phone": "844-GO-IMPACT",
+    "website": "https://cheshireimpact.com",
+    "logo": "https://storage.pardot.com/15322/205849/cheshlogo.png",
+    "logo_width": "200",
+    "contact_url": "https://www.cheshireimpact.com/contact/",
+    "privacy_url": "https://www.cheshireimpact.com/privacy/"
+  },
+  "nav": [
+    {
+      "text": "Services",
+      "url": "https://www.cheshireimpact.com/services/"
+    },
+    {
+      "text": "About",
+      "url": "https://www.cheshireimpact.com/about/"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.cheshireimpact.com/contact/"
+    }
+  ],
+  "styles": {
+    "colors": {
+      "email_background": "#f6f6f6",
+      "footer_background": "#092b4c",
+      "link": "#092b4c",
+      "white": "#ffffff",
+      "grey": "#909090",
+      "primary": "#FF7300",
+      "secondary": "#092b4c",
+      "highlight": "#3b5998",
+      "body_color": "#333333",
+      "divider": "#cecece"
+    },
+    "fonts": {
+      "link": "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap",
+      "family": "'Open Sans',Arial,Helvetica,sans-serif"
+    }
+  },
+  "images": {
+    "full_width": "https://picsum.photos/600/300"
+  },
+  "social": [
+    {
+      "name": "facebook",
+      "link": "#",
+      "image": "https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"
+    },
+    {
+      "name": "twitter",
+      "link": "#",
+      "image": "https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png"
+    },
+    {
+      "name": "linkedin",
+      "link": "#",
+      "image": "https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png"
+    },
+    {
+      "name": "youtube",
+      "link": "#",
+      "image": "https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png"
+    },
+    {
+      "name": "instagram",
+      "link": "#",
+      "image": "https://www.mailjet.com/images/theme/v1/icons/ico-social/instagram.png"
+    }
+  ],
+  "pages": [
+    {
+      "filename": "standard.html"
+    },
+    {
+      "filename": "services.html"
+    },
+    {
+      "filename": "events.html"
+    }
+  ]
+}
