@@ -3,76 +3,61 @@
     "hml": true
   },
   "general": {
-    "business_name": "Cheshire Impact",
-    "street_address": "1 Tara Blvd Suite 200",
-    "city_state_zip": "Nashua, NH 03062",
+    "business_name": "Fortress IQ",
+    "street_address": "27 Maiden Lane, Suite 590",
+    "city_state_zip": "San Francisco, CA 94108",
     "phone": "844-GO-IMPACT",
-    "website": "https://cheshireimpact.com",
-    "logo": "https://storage.pardot.com/15322/205849/cheshlogo.png",
-    "logo_width": "200",
-    "contact_url": "https://www.cheshireimpact.com/contact/",
-    "privacy_url": "https://www.cheshireimpact.com/privacy/"
+    "website": "https://www.fortressiq.com/",
+    "logo": "https://go.pardot.com/l/33192/2020-07-10/8vpp8s/33192/259769/fortress_logo.jpg",
+    "logo_width": "150",
+    "contact_url": "https://www.fortressiq.com/",
+    "privacy_url": "https://www.fortressiq.com/"
   },
   "nav": [
     {
-      "text": "Services",
-      "url": "https://www.cheshireimpact.com/services/"
+      "text": "Company",
+      "url": "https://www.fortressiq.com/company?hsLang=en"
     },
     {
-      "text": "About",
-      "url": "https://www.cheshireimpact.com/about/"
+      "text": "Solution",
+      "url": "https://www.fortressiq.com/solution?hsLang=en"
     },
     {
-      "text": "Contact",
-      "url": "https://www.cheshireimpact.com/contact/"
+      "text": "Partners",
+      "url": "https://www.fortressiq.com/solution?hsLang=en"
     }
   ],
   "styles": {
     "colors": {
       "email_background": "#f6f6f6",
-      "footer_background": "#092b4c",
-      "link": "#092b4c",
+      "footer_background": "#242323",
+      "link": "#f05742",
       "white": "#ffffff",
       "grey": "#909090",
-      "primary": "#FF7300",
-      "secondary": "#092b4c",
-      "highlight": "#3b5998",
+      "primary": "#f05742",
+      "secondary": "#242323",
+      "highlight": "#f05742",
       "body_color": "#333333",
       "divider": "#cecece"
     },
     "fonts": {
-      "link": "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap",
-      "family": "'Open Sans',Arial,Helvetica,sans-serif"
+      "link": "https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap",
+      "family": "'Robot',Arial,Helvetica,sans-serif"
     }
   },
   "images": {
-    "full_width": "https://picsum.photos/600/300"
+    "full_width": "https://go.pardot.com/l/33192/2020-07-10/8vpp8q/33192/259767/fortress.jpg"
   },
   "social": [
     {
-      "name": "facebook",
-      "link": "#",
-      "image": "https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"
-    },
-    {
       "name": "twitter",
-      "link": "#",
+      "link": "https://twitter.com/fortressiq",
       "image": "https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png"
     },
     {
       "name": "linkedin",
-      "link": "#",
+      "link": "https://www.linkedin.com/company/fortressiq",
       "image": "https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png"
-    },
-    {
-      "name": "youtube",
-      "link": "#",
-      "image": "https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png"
-    },
-    {
-      "name": "instagram",
-      "link": "#",
-      "image": "https://www.mailjet.com/images/theme/v1/icons/ico-social/instagram.png"
     }
   ],
   "pages": [

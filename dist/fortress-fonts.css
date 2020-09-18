@@ -1,0 +1,36 @@
+@font-face{
+	font-family:'Camber';
+	src:url("https://fortressiq.chesh.link/wp-content/themes/twentytwenty/assets/fonts/Camber/Camber-Lg.woff2") format("woff2"),
+	    url("https://fortressiq.chesh.link/wp-content/themes/twentytwenty/assets/fonts/Camber/Camber-Lg.woff") format("woff");
+	font-weight:300;
+	font-style:normal
+}
+
+@font-face{
+	font-family:'Camber';
+    src:url("https://fortressiq.chesh.link/wp-content/themes/twentytwenty/assets/fonts/Camber/Camber-Rg.woff2") format("woff2"),
+        url("https://fortressiq.chesh.link/wp-content/themes/twentytwenty/assets/fonts/Camber/Camber-Rg.woff") format("woff");
+        font-weight:normal;
+        font-style:normal
+    }
+@font-face{
+	font-family:'Camber';
+	src:url("https://fortressiq.chesh.link/wp-content/themes/twentytwenty/assets/fonts/Camber/Camber-Md.woff2") format("woff2"),	
+		url("https://fortressiq.chesh.link/wp-content/themes/twentytwenty/assets/fonts/Camber/Camber-Md.woff") format("woff");
+		font-weight:500;
+		font-style:normal
+	}
+@font-face{
+	font-family:'Camber';
+	src:url("https://fortressiq.chesh.link/wp-content/themes/twentytwenty/assets/fonts/Camber/Camber-Sb.woff2") format("woff2"),
+		url("https://fortressiq.chesh.link/wp-content/themes/twentytwenty/assets/fonts/Camber/Camber-Sb.woff") format("woff");
+		font-weight:600;
+		font-style:normal
+	}
+@font-face{
+	font-family:'Camber';
+	src:url("https://fortressiq.chesh.link/wp-content/themes/twentytwenty/assets/fonts/Camber/Camber-Bd.woff2") format("woff2"),
+	url("https://fortressiq.chesh.link/wp-content/themes/twentytwenty/assets/fonts/Camber/Camber-Bd.woff") format("woff");
+	font-weight:700;
+	font-style:normal
+}
